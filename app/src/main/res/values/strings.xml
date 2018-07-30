@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LintFail</string>
+    <string name="lint_test">%d test</string>
+</resources>
